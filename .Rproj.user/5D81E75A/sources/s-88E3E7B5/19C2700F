@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1591533697822.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "84782443",
+    "id" : "19C2700F",
+    "lastKnownWriteTime" : 1591533853,
+    "last_content_update" : 1591533853376,
+    "path" : "~/Documents/SKB/DataScience/Datasciencecoursera/Helloworld.Rmd",
+    "project_path" : "Helloworld.Rmd",
+    "properties" : {
+        "cursorPosition" : "12,44",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
